@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MordenArtUI</string>
+    <string name="action_settings">More information</string>
+    <string name="dialog_fire_missiles">Inspired by the works of Modern Art masters such as Piet Mondrian and Ben Nicholson. Click to learn more!</string>
+    <string name="visit">Visit MOMA</string>
+    <string name="cancel">Not now</string>
+</resources>
